@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋, my name is Lautaro Laza and I'm a Software Developer 💻
 
-## My name is Lautaro Laza and I'm a Software Developer 💻
+## At the time I'm in the last year of the Preogramming Technician career and looking for a job
 
+If you want to contact me here's my [Telegram](https://t.me/LazaLautaro), Cheers! 
 <!--
 **Lazzollin/Lazzollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
