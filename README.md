@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Lautaro Laza and I'm a Software Developer 💻
 
-## At the time I'm in the last year of the Preogramming Technician career and looking for a job
+## At the time I'm in the last year of the Programming Technician career and looking for a job
 
 If you want to contact me here's my [Telegram](https://t.me/LazaLautaro), Cheers! 
 <!--
