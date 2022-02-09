@@ -1,6 +1,6 @@
-## Hi there 👋, my name is Lautaro Laza and I'm a Software Developer 💻
+## Hi there 👋, my name is Lautaro and I'm a Software Developer 💻
 
-At the time I'm a Programming Technician
+At the time I'm working as a Ssr. Python Developer
 If you want to contact me here's my [Email](mailto:lazacuestalautaro@gmail.com), Cheers! 
 <!--
 **Lazzollin/Lazzollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
